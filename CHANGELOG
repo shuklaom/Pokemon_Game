@@ -1,0 +1,18 @@
+4/12/2022
+    - Imported prof's code from piazza
+
+4/14/2022
+    - Implemented choosing pokemon for the trainers for the battles.
+
+4/15/2022
+    - Started implementing battles
+    - Implemented the damage formula provided in the Homeowork document.
+    - Implemented trainer pokemon being able to do damage against wild pokemons
+
+4/19/2022
+    - Implemening trainer battles
+    - Found and fixed bug that was causing the formula that was implemneted yesterday to cause seg faults.
+    - Found a bug with the damage to wild pokemon will work on fixing that bug tomorrow as I am out of time for the day
+
+4/20/2022 - 4/21/2022
+    - Fixed the bug with battles where the damage to wild pokemons was being counted but the health of the wild pokemon wasnt being removed.
